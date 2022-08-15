@@ -1,0 +1,1590 @@
+[
+  {
+    "categoryId": 1,
+    "category": "power tools and equipment",
+    "subCategories": ["multiplugs & adapters", "cabling", "backup batteries"],
+    "products": {
+      "multiplugs & adapters": [
+        {
+          "code": 1,
+          "name": "Euromate Plugtops",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/euromate-plugtops/1.jpg",
+            "assets/images/products/power-equipment/multiplugs-and-adapters/euromate-plugtops/2.jpg"
+          ],
+          "priceInclVat": 11.50,
+          "dealerExclVat": 8.00,
+          "sku": "EUR",
+          "details": "Scoop's EUR is a 3-pin plug to 2-pin Euromate hexagonal top loading socket.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 2,
+          "name": "2-Pin Schuko to 16A 3-Pin Adaptor",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/2-pin-schulko/1.jpg",
+            "assets/images/products/power-equipment/multiplugs-and-adapters/2-pin-schulko/2.jpg"
+          ],
+          "priceInclVat": 15.00,
+          "dealerExclVat": 10.00,
+          "sku": "EUR-SCH",
+          "details": "Scoop's Schuko is a 3-pin plug to 2-pin Schuko round top loading socket. Use this adapter to convert your 2 Pin Schuko plug into a 3 pin plug.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 3,
+          "name": "Type N to 16A 3-Pin Adaptor",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/type-n/1.jpg",
+            "assets/images/products/power-equipment/multiplugs-and-adapters/type-n/2.jpg"
+          ],
+          "priceInclVat": 15.00,
+          "dealerExclVat": 11.00,
+          "sku": "EUR-TN",
+          "details": "Scoop's EUR-TN is a 16A 3-pin plug to Type N Adapter.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 4,
+          "name": "Male IEC 10A Connector",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/type-n/1.jpg",
+            "assets/images/products/power-equipment/multiplugs-and-adapters/type-n/2.jpg"
+          ],
+          "priceInclVat": 28.00,
+          "dealerExclVat": 20.00,
+          "sku": "IEC-MALE",
+          "details": "Scoop's IEC-MALE is a 10A 3-Pin Male IEC connector. Note: 3x Ring Terminals are required but are not included.",
+          "manufacturer": "Locally Sourced",
+          "featured": true
+        },
+        {
+          "code": 5,
+          "name": "Multi Plug 1x16A 1x5A 0.5m IEC Cord",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/multi-plug-1x16a/1.jpg"
+          ],
+          "priceInclVat": 60.00,
+          "dealerExclVat": 40.00,
+          "sku": "MP-02WIEC",
+          "details": "Scoop's MP-02WIEC is a 2-way multi-plug that is made up of 1x16A 3-pin socket, and 1x 5A 2-pin round socket. This multi-plug has a half metre cord with a moulded IEC plug and offers overload protection.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 6,
+          "name": "Multi Plug 3x16A 3x5A 0.5m Cord",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/multi-plug-3x16a/1.jpg"
+          ],
+          "priceInclVat": 85.00,
+          "dealerExclVat": 60.00,
+          "sku": "MP-06W",
+          "details": "Scoop's MP-6W is a 6-way multi-plug that is made up of 3x 16A 3-pin sockets and 3x 5A 2-pin sockets. This multi-plug has a half meter cord with a moulded plug and offers overload protection.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 7,
+          "name": "Multi Plug 3x16A 3x5A 0.5m IEC Cord",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/multi-plug-3x16a/1.jpg"
+          ],
+          "priceInclVat": 120.00,
+          "dealerExclVat": 85.00,
+          "sku": "MP-06WIEC",
+          "details": "Scoop's MP-06WIEC is a 6-way multi-plug that is made up of 3x16A 3-pin sockets, and 3x 5A 2-pin sockets. This multi-plug has a half meter cord with a moulded IEC plug and offers overload protection.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 8,
+          "name": "Multi Plug 4x16A 4x5A 2xUSB 0.5m Cord",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/multi-plug-4x16a/1.jpg"
+          ],
+          "priceInclVat": 190.00,
+          "dealerExclVat": 135.00,
+          "sku": "MP-08WU",
+          "details": "Scoop's MP-08WU is an 8-way multi-plug that is made up of 4x 16A 3-pin sockets, 3x 5A 2-pin sockets, 1x 5A 2-pin round socket and 2x USB sockets. This multi-plug has a half meter cord with a moulded plug and offers overload protection.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 9,
+          "name": "Multi Plug 5x16A 5x5A 0.5m Cord",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/multi-plug-5x16a/1.jpg"
+          ],
+          "priceInclVat": 120.00,
+          "dealerExclVat": 85.00,
+          "sku": "MP-10W",
+          "details": "Scoop's MP-10W is a 10-way multi-plug that is made up of 5x 16A 3-pin sockets, 4x 5A 2-pin sockets and 1x 5A 2-pin round socket. This multi-plug has a half meter cord with a moulded plug and offers overload protection.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 10,
+          "name": "Multi Plug 5x16A 5x5A 3m Cord",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/multi-plug-5x16a-3m/1.jpg"
+          ],
+          "priceInclVat": 215.00,
+          "dealerExclVat": 140.00,
+          "sku": "MP-10W3M",
+          "details": "Scoop's MP-10W3M is a 10-way multi-plug that is made up of 5x 16A 3-pin sockets, 4x 5A 2-pin sockets and 1x 5A 2-pin round socket. This multi-plug has a 3m cord with a moulded plug and offers overload protection.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 10,
+          "name": "Multi Plug 5x16A 5x5A 5m Cord",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/multi-plug-5x16a-5m/1.jpg"
+          ],
+          "priceInclVat": 275.00,
+          "dealerExclVat": 185.00,
+          "sku": "MP-10W5M",
+          "details": "Scoop's MP-10W5M is a 10-way multi-plug that is made up of 5x 16A 3-pin sockets, 4x 5A 2-pin sockets and 1x 5A 2-pin round socket. This multiplug has a 5m cord with a moulded plug and offers overload protection.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 11,
+          "name": "Multi Plug 5x16A 5x5A 0.5m IEC Cord",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/multi-plug-5x16a-iec-cord/1.jpg"
+          ],
+          "priceInclVat": 145.00,
+          "dealerExclVat": 95.00,
+          "sku": "MP-10WIEC",
+          "details": "Scoop's MP-10WIEC is a 10-way multi-plug that is made up of 5x16A 3-pin sockets, 4x 5A 2-pin sockets and 1x 5A 2-pin round socket. This multi-plug has a half meter cord with a moulded IEC plug and offers overload protection.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 12,
+          "name": "Surge Protected Multi Plug 5x16A 5x5A 0.5m Cord",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/surge-protected-multi-plug-5x16a/1.jpg"
+          ],
+          "priceInclVat": 145.00,
+          "dealerExclVat": 95.00,
+          "sku": "MP-10WSUR",
+          "details": "Scoop's MP-10WSUR is a 10-way multi-plug that is made up of 5x 16A 3-pin sockets, 4x 5A 2-pin sockets and 1x 5A 2-pin round socket. This multi-plug has a half meter cord with a molded plug and offers overload and surge protection.",
+          "manufacturer": "Locally Sourced",
+          "featured": true
+        },
+        {
+          "code": 13,
+          "name": "Switched Multi Plug 5x16A 5x5A 0.5m Cord",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/switched-multi-plug-5x16a/1.jpg"
+          ],
+          "priceInclVat": 190.00,
+          "dealerExclVat": 135.00,
+          "sku": "MP-10WSWI",
+          "details": "Scoop's MP-10WSWI is a switched 10-way multi-plug that is made up of 5x 16A 3-pin sockets, 4x 5A 2-pin sockets and 1x 5A 2-pin round socket. This multi-plug has a half meter cord with a moulded plug and offers overload protection.",
+          "manufacturer": "Locally Sourced",
+          "featured": true
+        },
+        {
+          "code": 14,
+          "name": "3M 10A Extension Cord with Double Coupler",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/3m-10a-extension-cord/1.jpg"
+          ],
+          "priceInclVat": 85.00,
+          "dealerExclVat": 60.00,
+          "sku": "MP-EX03",
+          "details": "Scoop's MP-EX03 is a 3m extension cord. It features a 3-pin male plug top on one end with two female 3-pin sockets on the other end of the extension.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 15,
+          "name": "5M 10A Extension Cord with Double Coupler",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/5m-10a-extension-cord/1.jpg"
+          ],
+          "priceInclVat": 115.00,
+          "dealerExclVat": 80.00,
+          "sku": "MP-EX05",
+          "details": "Scoop's MP-EX05 is a 5m extension cord. It features a 3-pin male plug top on one end with two female 3-pin sockets on the other end of the extension.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 15,
+          "name": "10M 10A Extension Cord with Double Coupler",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/10m-10a-extension-cord/1.jpg"
+          ],
+          "priceInclVat": 215.00,
+          "dealerExclVat": 140.00,
+          "sku": "MP-EX10",
+          "details": "Scoop's MP-EX10 is a 10m extension cord. It features a 3-pin male plug top on one end with two female 3-pin sockets on the other end of the extension.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 16,
+          "name": "20M 10A Extension Cord on Open Plastic Reel",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/20m-10a-extension-cord-open-plastic-reel/1.jpg"
+          ],
+          "priceInclVat": 565.00,
+          "dealerExclVat": 395.00,
+          "sku": "MP-EX20P",
+          "details": "Scoops MP-EX20P is a 20m 10A extension cord featuring two female 3-pin sockets and one 2-pin Schuko socket with a cutout switch. The unit has a powder-coated steel stand with a plastic spool.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 17,
+          "name": "30M 16A Extension Cord on Open Metal Reel",
+          "imageSrc": [
+            "assets/images/products/power-equipment/multiplugs-and-adapters/20m-10a-extension-cord-open-plastic-reel/1.jpg"
+          ],
+          "priceInclVat": 1075.00,
+          "dealerExclVat": 750.00,
+          "sku": "MP-EX30M",
+          "details": "Scoops MP-EX30P is a 30m 16A extension cord featuring two female 3-pin sockets. The unit has a powder-coated steel stand with a steel spool.",
+          "manufacturer": "Locally Sourced"
+        }
+      ],
+      "cabling": [
+        {
+          "code": 18,
+          "name": "Dedicated 2 Way IEC Power Cable",
+          "imageSrc": [
+            "assets/images/products/power-equipment/cables/dedicated-2-way-iec/1.jpg"
+          ],
+          "priceInclVat": 85.00,
+          "dealerExclVat": 60.00,
+          "sku": "DAISY2",
+          "details": "The 2 Way IEC Power Cables are manufactured according to the ISO 9002 specifications, ensuring outstanding quality. They are fully moulded and available in 2 metre lengths.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 19,
+          "name": "Dedicated 3 Way IEC Power Cable",
+          "imageSrc": [
+            "assets/images/products/power-equipment/cables/dedicated-3-way-iec/1.jpg"
+          ],
+          "priceInclVat": 120.00,
+          "dealerExclVat": 85.00,
+          "sku": "DAISY3",
+          "details": "A 3 Way IEC Power Cable, manufactured according to the ISO 9002 specifications, ensuring outstanding quality. It is fully moulded and available in 2 metre lengths.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 20,
+          "name": "Male IEC to Clover Cable 1.8m",
+          "imageSrc": [
+            "assets/images/products/power-equipment/cables/male-iec-to-clover-1.8m/1.jpg"
+          ],
+          "priceInclVat": 50.00,
+          "dealerExclVat": 35.00,
+          "sku": "DAISY3",
+          "details": "Scoops male IEC to Clover Cable is 1.8 meters long, fully moulded and manufactured according to ISO 9002 specifications, ensuring outstanding quality.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 21,
+          "name": "2m IEC Power Cord With Dedicated Plug Top",
+          "imageSrc": [
+            "assets/images/products/power-equipment/cables/2m-iec-power-cord/1.jpg"
+          ],
+          "priceInclVat": 50.00,
+          "dealerExclVat": 35.00,
+          "sku": "POW-D",
+          "details": "Scoops POW-D is a 2m IEC Power Cord with a Dedicated 3-pin plug top.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 21,
+          "name": "2m Right Angled IEC Power Cord With Dedicated Plug Top",
+          "imageSrc": [
+            "assets/images/products/power-equipment/cables/2m-right-angled-iec-power-cord/1.jpg"
+          ],
+          "priceInclVat": 60.00,
+          "dealerExclVat": 40.00,
+          "sku": "POW-DR",
+          "details": "Scoops POW-DR is a 2m right-angled IEC Power Cord with a Dedicated 3-pin plug top.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 22,
+          "name": "2m Male - Female IEC Power Lead",
+          "imageSrc": [
+            "assets/images/products/power-equipment/cables/2m-male-female-iec/1.jpg"
+          ],
+          "priceInclVat": 45.00,
+          "dealerExclVat": 32.00,
+          "sku": "POW-M-F",
+          "details": "A 2 meter Male to Female IEC Power Lead.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 23,
+          "name": "Dedicated Figure 8 Power Cord",
+          "imageSrc": [
+            "assets/images/products/power-equipment/cables/2m-male-female-iec/1.jpg"
+          ],
+          "priceInclVat": 36.00,
+          "dealerExclVat": 25.00,
+          "sku": "POW8",
+          "details": "Figure 8 shape power cords are commonly used on laptops, printers and a variety of other appliances.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 24,
+          "name": "Dedicated Figure 8 Power Cord",
+          "imageSrc": [
+            "assets/images/products/power-equipment/cables/2m-male-female-iec/1.jpg"
+          ],
+          "priceInclVat": 50.00,
+          "dealerExclVat": 35.00,
+          "sku": "POWC",
+          "details": "Dedicated 2 meter Clover Power Cord.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 25,
+          "name": "Dedicated 3 pin to Clover Cable",
+          "imageSrc": [
+            "assets/images/products/power-equipment/cables/2m-male-female-iec/1.jpg"
+          ],
+          "priceInclVat": 30.00,
+          "dealerExclVat": 20.00,
+          "sku": "POWU",
+          "details": "Scoop's POWU is a dedicated 0.5 meter Clover Power Cord.",
+          "manufacturer": "Locally Sourced"
+        }
+      ],
+      "backup batteries": [
+        {
+          "code": 88,
+          "name": "12V100Ah Semi-Sealed Lead Acid Battery",
+          "imageSrc": [
+            "assets/images/products/power-equipment/battery-backup/12v100ah-semi-sealed-lead/1.jpg"
+          ],
+          "priceInclVat": 3050.00,
+          "dealerExclVat": 2125.00,
+          "sku": "BAT-12V100AH",
+          "details": "This Royal BAT-12V100AH calcium battery is a general purpose semi-sealed battery with a design life of up to 3-5 years in standby service. It uses specially alloyed calcium-lead, which ensures extremely low levels of 'electrolyte decrease'. Therefore there is no need to supplement distilled water if the charging system remains error-free. Special liquid-gas separators keeps the electrolyte inside. These separators are also used between the positive and negative plates of a lead acid battery to prevent a short circuit through physical contact. It's unique wrought lead-calcium grid design means less internal corrosion and efficient current conductivity for more power and longer life. It also cuts gassing, resists over-charge, heat and thermal runaway.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 89,
+          "name": "12V45Ah Semi-Sealed Lead Acid Battery",
+          "imageSrc": [
+            "assets/images/products/power-equipment/battery-backup/12v45ah-semi-sealed-lead/1.jpg"
+          ],
+          "priceInclVat": 1725.00,
+          "dealerExclVat": 1195.00,
+          "sku": "BAT-12V45AH",
+          "details": "This Royal BAT-12V45AH calcium battery is a general purpose semi-sealed battery with a design life of up to 3-5 years in standby service. It uses specially alloyed calcium-lead, which ensures extremely low levels of 'electrolyte decrease'. Therefore there is no need to supplement distilled water if the charging system remains error-free. Special liquid-gas separators keeps the electrolyte inside. These separators are also used between the positive and negative plates of a lead acid battery to prevent a short circuit through physical contact. It's unique wrought lead-calcium grid design means less internal corrosion and efficient current conductivity for more power and longer life. It also cuts gassing, resists over-charge, heat and thermal runaway.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 90,
+          "name": "12V7Ah Sealed Lead Acid Battery",
+          "imageSrc": [
+            "assets/images/products/power-equipment/battery-backup/12v7ah-sealed-lead/1.jpg",
+            "assets/images/products/power-equipment/battery-backup/12v7ah-sealed-lead/2.jpg"
+          ],
+          "priceInclVat": 275.00,
+          "dealerExclVat": 185.00,
+          "sku": "BAT-12V7AH",
+          "details": "Scoop's 12V Sealed Acid Battery allows for backup power in the case of loss of power to the client site or high-site.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 91,
+          "name": "Ubiquiti EdgePower 24V 72W DC Battery Input 2 PoE and DC Output | EP-24V-72W",
+          "imageSrc": [
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-edgepower-24v-72w/1.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-edgepower-24v-72w/2.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-edgepower-24v-72w/3.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-edgepower-24v-72w/4.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-edgepower-24v-72w/5.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-edgepower-24v-72w/6.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-edgepower-24v-72w/7.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-edgepower-24v-72w/8.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-edgepower-24v-72w/9.jpg"
+          ],
+          "priceInclVat": 3375.00,
+          "dealerExclVat": 2350.00,
+          "sku": "EP-24V72W",
+          "details": "Ubiquiti's EP-24V72W is a 24V power supply and UPS combo. In addition to the standard IEC power input, the unit features 1x 12V Terminal Input, 1x DC output port, and 2x PoE output ports. In the event of a power outage, the unit will alert the user. The terminal port allows connection to a 12V lead-acid battery for redundancy. (Battery not included). The EdgePower allows configuration and monitoring of the power supply features in a graphical user interface. It is also compatible with UNMS (Ubiquiti® Network Management System) and SMP for easy remote management.",
+          "manufacturer": "Ubiquiti"
+        },
+        {
+          "code": 92,
+          "name": "Scoop EdgePower Rack Mount Kit",
+          "imageSrc": [
+            "assets/images/products/power-equipment/battery-backup/scoop-edgepower-rack-mount/1.jpg",
+            "assets/images/products/power-equipment/battery-backup/scoop-edgepower-rack-mount/2.jpg",
+            "assets/images/products/power-equipment/battery-backup/scoop-edgepower-rack-mount/3.jpg"
+          ],
+          "priceInclVat": 70.00,
+          "dealerExclVat": 50.00,
+          "sku": "EP-RMKIT",
+          "details": "Scoop's EP-RMKIT is a rack mount kit designed for Ubiquiti's EdgePower range. Make use of the screws included with the EdgePower units to easily secure the unit in any 19' cabinet. Note: EP-24V72W sold separately.",
+          "manufacturer": "Scoop"
+        },
+        {
+          "code": 93,
+          "name": "12VDC 8.8Ah 17W Micro UPS with USB and PoE Output",
+          "imageSrc": [
+            "assets/images/products/power-equipment/battery-backup/12vdc-8.8ah-17w-micro-ups/1.jpg",
+            "assets/images/products/power-equipment/battery-backup/12vdc-8.8ah-17w-micro-ups/2.jpg",
+            "assets/images/products/power-equipment/battery-backup/12vdc-8.8ah-17w-micro-ups/3.jpg",
+            "assets/images/products/power-equipment/battery-backup/12vdc-8.8ah-17w-micro-ups/4.jpg"
+          ],
+          "priceInclVat": 575.00,
+          "dealerExclVat": 395.00,
+          "sku": "MUPS-17W8.8AH",
+          "details": "Scoop's MUPS-17W8.8AH is a DC to DC Micro UPS featuring a selectable 9V or 12V 17W DC output, 5V USB port and 15V or 24V Fast Ethernet PoE output. The Micro UPS remains in-line between your device and the power source regulating the incoming power to prevent damage. In the event of a power outage, switchover to the Micro UPS backup power is instant.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 94,
+          "name": "Ubiquiti SunMAX SolarPoint 24V 40W Outdoor 4 PoE Controller | SM-SP-40",
+          "imageSrc": [
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-outdoor/1.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-outdoor/2.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-outdoor/3.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-outdoor/4.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-outdoor/5.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-outdoor/6.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-outdoor/7.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-outdoor/8.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-outdoor/9.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-outdoor/10.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-outdoor/11.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-outdoor/12.jpg"
+          ],
+          "priceInclVat": 4125.00,
+          "dealerExclVat": 2895.00,
+          "sku": "SMSP-40",
+          "details": "Ubiquiti's SMSP-40 is a remote-managed, Maximum Power Point Tracker (MPPT), 24V, 7A, solar charge controller. It offers a built-in 4-port 24V PoE 10/100Mbps switch, one DC output port and delivers up to 40W. It comes with a built-in weather prediction service that, together with AI algorithms, provides critical information about a solar site's existing and future performance.",
+          "manufacturer": "Ubiquiti"
+        },
+        {
+          "code": 95,
+          "name": "Ubiquiti SunMAX SolarSwitch 24V 40W 4 PoE Indoor Controller | SM-SW-40",
+          "imageSrc": [
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-indoor/1.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-indoor/2.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-indoor/3.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-indoor/4.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-indoor/5.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-indoor/6.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-indoor/7.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-indoor/8.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-sunmax-solarpoint-24v-40w-indoor/9.jpg"
+          ],
+          "priceInclVat": 4125.00,
+          "dealerExclVat": 2895.00,
+          "sku": "SMSP-40",
+          "details": "Ubiquiti's SMSW-40 is a remote-managed Maximum Power Point Tracker (MPPT), 24V 7A charge controller with a built-in 4 port 24V PoE 10/100Mbps switch and one DC output delivering up to 40W. It is compatible with UNMS and comes with a built-in weather prediction service that, together with AI algorithms, provides critical information about a solar site's existing and future performance.",
+          "manufacturer": "Ubiquiti"
+        },
+        {
+          "code": 96,
+          "name": "Ubiquiti UniFi 1.5m SmartPower Cable for USP-RPS | USP-CABLE",
+          "imageSrc": [
+            "assets/images/products/power-equipment/battery-backup/ubquiti-unifi-1.5m/1.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubquiti-unifi-1.5m/2.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubquiti-unifi-1.5m/3.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubquiti-unifi-1.5m/4.jpg"
+          ],
+          "priceInclVat": 795.00,
+          "dealerExclVat": 550.00,
+          "sku": "USP-1.5M",
+          "details": "Ubiquiti's USP-1.5M is a 1.5m SmartPower Cable designed to work with the USP-RPS and compatible UniFi switches. When used with the USP-RPS the system provides a redundant power source for compatible UniFi switches.",
+          "manufacturer": "Ubiquiti"
+        },
+        {
+          "code": 97,
+          "name": "Ubiquiti UniFi SmartPower System 6 USP Output Ports | USP-RPS",
+          "imageSrc": [
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-unifi-smartpower/1.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-unifi-smartpower/2.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-unifi-smartpower/3.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-unifi-smartpower/4.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-unifi-smartpower/5.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-unifi-smartpower/6.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-unifi-smartpower/7.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-unifi-smartpower/8.jpg",
+            "assets/images/products/power-equipment/battery-backup/ubiquiti-unifi-smartpower/9.jpg"
+          ],
+          "priceInclVat": 9475.00,
+          "dealerExclVat": 6595.00,
+          "sku": "USP-RPS",
+          "details": "Ubiquiti's USP-RPS is a SmartPower Redundant Power System with a 950W DC power budget. It is designed to protect up to six UniFi SmartPower supported devices from sudden power supply module failure. The USP-RPS continually monitors all attached devices and in the event of an internal AC/DC power supply failure, failover is automatic so your network continues to operate with no interruption in service.",
+          "manufacturer": "Ubiquiti"
+        }
+      ]
+    }
+  },
+  {
+    "categoryId": 2,
+    "category": "structured cabling",
+    "subCategories": ["boxed inserts"],
+    "products": {
+      "boxed inserts": [
+        {
+          "code": 26,
+          "name": "Linkbasic One Port Faceplate 115 x 70mm",
+          "imageSrc": [
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-one-port/1.jpg",
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-one-port/2.jpg"
+          ],
+          "priceInclVat": 9.00,
+          "dealerExclVat": 6.00,
+          "sku": "LB-FM1",
+          "details": "Linkbasic's LB-FM1 is a wall plate made from high-impact ABS plastic, making for years of durable use. The LB-FM1 blends into the decor of your home or office and protects/hides your network connections. It accepts all keystone inserts and standard 110 type IDC termination makes installation fast and easy.",
+          "manufacturer": "Linkbasic"
+        },
+        {
+          "code": 27,
+          "name": "Linkbasic Two Port Faceplate 115 x 70mm",
+          "imageSrc": [
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-two-port/1.jpg",
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-two-port/2.jpg"
+          ],
+          "priceInclVat": 9.00,
+          "dealerExclVat": 6.00,
+          "sku": "LB-FM2",
+          "details": "Linkbasic's LB-FM2 is a wall plate made from high-impact ABS plastic, making for years of durable use. The LB-FM2 blends into the decor of your home or office and protects/hides your network connections. It accepts all keystone inserts and standard 110 type IDC termination makes installation fast and easy. RJ45 and RJ11 keystone Jacks sold separately.",
+          "manufacturer": "Linkbasic"
+        },
+        {
+          "code": 28,
+          "name": "Linkbasic Three Port Faceplate 115 x 70mm",
+          "imageSrc": [
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-three-port/1.jpg",
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-three-port/2.jpg"
+          ],
+          "priceInclVat": 9.00,
+          "dealerExclVat": 6.00,
+          "sku": "LB-FM3",
+          "details": "Linkbasic's LB-FM3 is a wall plate made from high-impact ABS plastic, making for years of durable use. The LB-FM3 blends into the decor of your home or office and protects/hides your network connections. It accepts all keystone inserts and standard 110 type IDC termination makes installation fast and easy.",
+          "manufacturer": "Linkbasic"
+        },
+        {
+          "code": 29,
+          "name": "Linkbasic Cat3 UTP Keystone Jack",
+          "imageSrc": [
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat3-utp/1.jpg",
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat3-utp/2.jpg"
+          ],
+          "priceInclVat": 10.50,
+          "dealerExclVat": 7.00,
+          "sku": "LB-KEY11",
+          "details": "Linkbasic's LB-KEY11, insert works great to add a Telecommunication connection into any room. It features a dual colour-coded wiring label with both T568A/B wiring pattern. Rear Termination field ensures easy termination of a jack while installed in a wall plate, surface mount boxes, and patch panels for a wide variety of Applications.",
+          "manufacturer": "Linkbasic"
+        },
+        {
+          "code": 30,
+          "name": "Linkbasic Cat5e UTP Keystone Jack",
+          "imageSrc": [
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat5e-utp/1.jpg",
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat5e-utp/2.jpg"
+          ],
+          "priceInclVat": 18.00,
+          "dealerExclVat": 12.00,
+          "sku": "LB-KEY45",
+          "details": "Linkbasic's LB-KEY45, horizontal style Cat5e 90º keystone jack features dual colour-coded wiring label with both T568A/B wiring pattern. A rear termination field ensures easy termination of a jack while installed in a wall plate, surface mount boxes, and patch panels for a wide variety of Applications.",
+          "manufacturer": "Linkbasic"
+        },
+        {
+          "code": 30,
+          "name": "Linkbasic Cat5e Shielded UTP Keystone Jack",
+          "imageSrc": [
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat5e-shielded-utp/1.jpg",
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat5e-shielded-utp/2.jpg"
+          ],
+          "priceInclVat": 30.00,
+          "dealerExclVat": 22.00,
+          "sku": "LB-KEY45S",
+          "details": "Linkbasic's LB-KEY45S is a new style Jack which provides Category 5E system performance and user-friendly installation features. It's shielded, offering maximum protection from EMI/RFI interference.",
+          "manufacturer": "Linkbasic"
+        },
+        {
+          "code": 31,
+          "name": "Linkbasic Cat6 UTP Keystone Jack",
+          "imageSrc": [
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat6-utp/1.jpg",
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat6-utp/2.jpg"
+          ],
+          "priceInclVat": 25.00,
+          "dealerExclVat": 15.00,
+          "sku": "LB-KEY6",
+          "details": "Linkbasic's LB-KEY6 horizontal style Cat6 180º keystone jack features dual colour-coded wiring label with both T568A/B wiring pattern. A rear termination field ensures easy termination of a jack while installed in a wall plate, surface mount boxes, and patch panels for a wide variety of Applications. As part of Linkbasic's Cat6 UTP solution, Cat6 UTP Keystone jacks’ performance exceeds all requirements for Cat6 components, including NEXT, FEXT, attenuation, and return loss.",
+          "manufacturer": "Linkbasic"
+        },
+        {
+          "code": 32,
+          "name": "Linkbasic Cat6a UTP Keystone Jack",
+          "imageSrc": [
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat6a-utp/1.jpg",
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat6a-utp/2.jpg"
+          ],
+          "priceInclVat": 30.00,
+          "dealerExclVat": 22.00,
+          "sku": "LB-KEY6A",
+          "details": "Linkbasic's LB-KEY6A horizontal style Cat6a keystone jack features a dual colour-coded wiring label with T568A/B wiring to meet or exceed TIA/EIA Cat6A requirements.",
+          "manufacturer": "Linkbasic"
+        },
+        {
+          "code": 33,
+          "name": "Linkbasic Cat5e Single Surface Mount Box",
+          "imageSrc": [
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat5e-single-surface/1.jpg",
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat5e-single-surface/2.jpg"
+          ],
+          "priceInclVat": 25.00,
+          "dealerExclVat": 18.00,
+          "sku": "LB-SM1",
+          "details": "Use Linkbasic's LB-SM1 surface mount box as you would use an outlet faceplate to cover and connect keystone connectors to the wall and achieve neat wiring for the house or office. This box comes in a variety of styles, including Linkbasic's 110 style punch down surface mount boxes. The surface mount boxes feature a compact, easy to install design. Components can be installed into the base. Note: Insert is included with the box.",
+          "manufacturer": "Linkbasic"
+        },
+        {
+          "code": 34,
+          "name": "Linkbasic Cat5e Double Surface Mount Box",
+          "imageSrc": [
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat5e-double-surface/1.jpg",
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat5e-double-surface/2.jpg"
+          ],
+          "priceInclVat": 45.00,
+          "dealerExclVat": 30.00,
+          "sku": "LB-SM2",
+          "details": "Use Linkbasic's LB-SM2 surface mount box as you would use an outlet faceplate to cover and connect keystone connectors to the wall to make neat wiring for the house or office. This box comes in a variety of styles including a 110 style punch down surface mount box. The surface mount boxes feature a compact, easy to install design. Components can be installed into the base. Note: Insert is included with the box.",
+          "manufacturer": "Linkbasic"
+        },
+        {
+          "code": 35,
+          "name": "Linkbasic Cat6 Single Surface Mount Box",
+          "imageSrc": [
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat6-single-surface/1.jpg",
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat6-single-surface/2.jpg"
+          ],
+          "priceInclVat": 30.00,
+          "dealerExclVat": 22.00,
+          "sku": "LB-SM3",
+          "details": "Use Linkbasic's LB-SM3 surface mount box as you would use an outlet faceplate to cover and connect keystone connectors to the wall and achieve neat wiring for the house or office. This box comes in a variety of styles, including our 110 style punch down surface mount boxes. The surface mount boxes feature a compact, easy to install design. Components can be installed into the base. Note: Insert is included with the box.",
+          "manufacturer": "Linkbasic"
+        },
+        {
+          "code": 35,
+          "name": "Linkbasic Cat6 Double Surface Mount Box",
+          "imageSrc": [
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat6-double-surface/1.jpg",
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat6-double-surface/2.jpg"
+          ],
+          "priceInclVat": 55.00,
+          "dealerExclVat": 38.00,
+          "sku": "LB-SM4",
+          "details": "Use Linkbasic's LB-SM4 surface mount box as you would use an outlet faceplate to cover and connect keystone connectors to the wall to make neat wiring for the house or office. This box comes in a variety of styles including a 110 style punch down surface mount box. The surface mount boxes feature a compact, easy to install design. Components can be installed into the base. Note: Insert is included with the box.",
+          "manufacturer": "Linkbasic"
+        },
+        {
+          "code": 36,
+          "name": "Linkbasic Cat6a Single Surface Mount Box",
+          "imageSrc": [
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat6a-single-surface/1.jpg",
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat6a-single-surface/2.jpg"
+          ],
+          "priceInclVat": 45.00,
+          "dealerExclVat": 30.00,
+          "sku": "LB-SM5",
+          "details": "Linkbasic's LB-SM5 Cat6a surface mount box can be used as an outlet faceplate to cover and connect keystone connectors to the wall and achieve neat wiring for the house or office. Note: Insert is included with the box.",
+          "manufacturer": "Linkbasic"
+        },
+        {
+          "code": 37,
+          "name": "Linkbasic Cat6a Double Surface Mount Box",
+          "imageSrc": [
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat6a-double-surface/1.jpg",
+            "assets/images/products/structured-cabling/inserts-boxes/linkbasic-cat6a-double-surface/2.jpg"
+          ],
+          "priceInclVat": 70.00,
+          "dealerExclVat": 50.00,
+          "sku": "LB-SM6",
+          "details": "Linkbasic's LB-SM6 Cat6a surface mount box can be used as an outlet faceplate to cover and connect keystone connectors to the wall and achieve neat wiring for the house or office. Note: Insert is included with the box.",
+          "manufacturer": "Linkbasic"
+        }
+      ]
+    }
+  },
+  {
+    "categoryId": 3,
+    "category": "installation accessories",
+    "subCategories": ["masting brackets", "tape", "tools"],
+    "products": {
+      "masting brackets": [
+        {
+          "code": 38,
+          "name": "Economy Mast Bracket 38mm",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/economy-mast/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/economy-mast/2.jpg"
+          ],
+          "priceInclVat": 85.00,
+          "dealerExclVat": 55.00,
+          "sku": "BRA-EC0",
+          "details": "Scoop's BRA-ECO is an Economy Mast Bracket that is able to fit our TUB-AU. It is made from mild steel and 1.6mm in thickness.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 39,
+          "name": "Flush Mount Bracket Heavy Duty",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/flush-mount-bracket/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/flush-mount-bracket/2.jpg"
+          ],
+          "priceInclVat": 535.00,
+          "dealerExclVat": 375.00,
+          "sku": "BRA-FM",
+          "details": "Scoop's BRA-FM is a heavy duty flush mount bracket that can be used for applications that require a rock steady installation. It is made from galvanized steel which prevents rusting. Clamps are included to avoid any wear and tear on your masts.",
+          "manufacturer": "Locally Sourced",
+          "featured": true
+        },
+        {
+          "code": 40,
+          "name": "Ground Mount Bracket 1000x50mm",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/economy-mast/1.jpg"
+          ],
+          "priceInclVat": 350.00,
+          "dealerExclVat": 250.00,
+          "sku": "BRA-GM",
+          "details": "Scoop's BRA-GM is a Ground Mount Bracket, 1000 x 50mm.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 41,
+          "name": "Parallel Clamp 300mm",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/parallel-clamp/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/parallel-clamp/2.jpg"
+          ],
+          "priceInclVat": 430.00,
+          "dealerExclVat": 295.00,
+          "sku": "BRA-FM",
+          "details": "Scoop's BRA-PC, parallel clamp, allows for an off-set on any existing mast installation. This will give you more space when working with larger equipment that requires space in between your mast and the device being mounted. It is made from galvanized steel which prevents rusting. Clamps are included to avoid any wear and tear on your masts.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 42,
+          "name": "Square Bracket Wallmount 25cm",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/square-bracket-wallmount-25/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/square-bracket-wallmount-25/2.jpg"
+          ],
+          "priceInclVat": 450.00,
+          "dealerExclVat": 315.00,
+          "sku": "BRA-S25",
+          "details": "Scoop's BRA-S25, 250mm offset square bracket provides a more than robust approach to your mast installation. The bracket is hot-dipped galvanized to improve rust resistance and UBOLT's are included to secure your masts.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 43,
+          "name": "Square Bracket Wallmount 40cm",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/square-bracket-wallmount-40/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/square-bracket-wallmount-40/2.jpg"
+          ],
+          "priceInclVat": 545.00,
+          "dealerExclVat": 375.00,
+          "sku": "BRA-S40",
+          "details": "Scoop's BRA-S40, 400mm offset square bracket provides a more than robust approach to your mast installation. The bracket is hot-dipped galvanized to improve rust resistance and UBOLT's are included to secure your masts.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 44,
+          "name": "Square Bracket Wallmount 55cm",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/square-bracket-wallmount-55/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/square-bracket-wallmount-55/2.jpg"
+          ],
+          "priceInclVat": 675.00,
+          "dealerExclVat": 475.00,
+          "sku": "BRA-S55",
+          "details": "Scoop's BRA-S55, 550mm offset square bracket provides a more than robust approach to your mast installation. The bracket is hot-dipped galvanized to improve rust resistance and UBOLT's are included to secure your masts.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 45,
+          "name": "T-Stand off Bracket 150mm",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/t-stand-off-bracket-150/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/t-stand-off-bracket-150/2.jpg"
+          ],
+          "priceInclVat": 175.00,
+          "dealerExclVat": 125.00,
+          "sku": "BRA-T150",
+          "details": "Scoop's BRA-T150 is a 150mm T-bracket that provides a more than robust approach to your mast installation. We recommend two brackets per installation. It is made from galvanized steel which prevents rusting. Clamps are included to avoid any wear and tear on your masts.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 46,
+          "name": "T-Stand off Bracket 300mm",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/t-stand-off-bracket-300/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/t-stand-off-bracket-300/2.jpg"
+          ],
+          "priceInclVat": 325.00,
+          "dealerExclVat": 225.00,
+          "sku": "BRA-T300",
+          "details": "Scoop's BRA-T300, 300mm T-bracket provides a more than robust approach to your mast installation. We recommend using two brackets per installation. Clamps are included to avoid any wear and tear on your masts.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 47,
+          "name": "Tripod Bracket Wallmount 47cm",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/tripod-bracket-wallmount-47/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/tripod-bracket-wallmount-47/2.jpg"
+          ],
+          "priceInclVat": 315.00,
+          "dealerExclVat": 215.00,
+          "sku": "BRA-TL",
+          "details": "Scoop's BRA-TL is a Tripod Bracket, Wall Mount. It is 47cm (Large). Note: UBOLTS included.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 48,
+          "name": "Tripod Bracket Wallmount 25cm",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/tripod-bracket-wallmount-25/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/tripod-bracket-wallmount-25/2.jpg"
+          ],
+          "priceInclVat": 235.00,
+          "dealerExclVat": 160.00,
+          "sku": "BRA-TM",
+          "details": "Scoop's BRA-TM is a Tripod Bracket, Wall Mount. It is 25cm (Medium). Note: UBOLTS included.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 49,
+          "name": "Tripod Bracket Wallmount 10cm",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/tripod-bracket-wallmount-10/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/tripod-bracket-wallmount-10/2.jpg"
+          ],
+          "priceInclVat": 185.00,
+          "dealerExclVat": 125.00,
+          "sku": "BRA-TS",
+          "details": "Scoop's BRA-TS is a Tripod Bracket, Wall Mount. It is 10cm (Small). Note: UBOLTS included.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 50,
+          "name": "L-Bracket 500x500x50mm",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/l-bracket-500-500-50/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/l-bracket-500-500-50/2.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/l-bracket-500-500-50/3.jpg"
+          ],
+          "priceInclVat": 385.00,
+          "dealerExclVat": 270.00,
+          "sku": "BRA-WL",
+          "details": "Scoop's BRA-WL is a wall mount L-Bracket which has been hot dipped galvanized and intended for outdoor use. Note: Dimensions: 500 x 500 x 50mm (LARGE)",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 51,
+          "name": "L-Bracket 400x200x38mm",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/l-bracket-400-200-38/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/l-bracket-400-200-38/2.jpg"
+          ],
+          "priceInclVat": 175.00,
+          "dealerExclVat": 115.00,
+          "sku": "BRA-WS",
+          "details": "Scoop's BRA-WS is a wall mount L-Bracket which has been hot dipped galvanized and intended for outdoor use. Note: Dimensions: 400 x 200 x 38mm (SMALL).",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 52,
+          "name": "L-Bracket 500x1000x50mm",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/l-bracket-500-1000-50/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/l-bracket-500-1000-50/2.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/l-bracket-500-1000-50/3.jpg"
+          ],
+          "priceInclVat": 475.00,
+          "dealerExclVat": 325.00,
+          "sku": "BRA-WX",
+          "details": "Scoop's BRA-WX is a wall mount L-Bracket which has been hot dipped galvanized and intended for outdoor use. Note: Dimensions: 500 x 1000 x 50mm (EXTRA LARGE)",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 53,
+          "name": "Coach Screws And Plugs",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/coach-screws-plugs/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/coach-screws-plugs/2.jpg"
+          ],
+          "priceInclVat": 4.30,
+          "dealerExclVat": 2.95,
+          "sku": "COACH",
+          "details": "These Coach Screws and Plugs are suitable for use with all Scoop tri-pod brackets. Prepacked boxes of 100 units are available.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 54,
+          "name": "Scoop EdgePower Rack Mount Kit",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/scoop-edgepower-rack/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/scoop-edgepower-rack/2.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/scoop-edgepower-rack/3.jpg"
+          ],
+          "priceInclVat": 70.00,
+          "dealerExclVat": 50.00,
+          "sku": "EP-RMKIT",
+          "details": "Scoop's EP-RMKIT is a rack mount kit designed for Ubiquiti's EdgePower range. Make use of the screws included with the EdgePower units to easily secure the unit in any 19' cabinet. Note: EP-24V72W sold separately.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 55,
+          "name": "M8 Rawl Bolt Shielded Zinc (8x65)",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/m8-rawl-bolt-shield/1.jpg"
+          ],
+          "priceInclVat": 8.50,
+          "dealerExclVat": 5.95,
+          "sku": "RAWLB",
+          "details": "These Rawl Bolts are suitable for use with all Scoop brackets.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 56,
+          "name": "MikroTik LHG Series Metal Pole Mount Adapter | LHGMount",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/mikrotik-lhg-series-metal-pole-mount-adapter/1.jpg"
+          ],
+          "priceInclVat": 250.00,
+          "dealerExclVat": 175.00,
+          "sku": "RB-LHGM",
+          "details": "MikroTik's RB-LHGM Mount is a basic pole mount adapter for the LHG series. The bracket features a simple and low-cost design and supports all LHG series, products, including the LHG XL.",
+          "manufacturer": "Mikrotik"
+        },
+        {
+          "code": 57,
+          "name": "MikroTik LHG Series Metal Pole Mount Bracket | solidMOUNT",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/mikrotik-lhg-series-metal-pole-mount-bracket/1.jpg"
+          ],
+          "priceInclVat": 575.00,
+          "dealerExclVat": 395.00,
+          "sku": "RB-LHGSM",
+          "details": "MikroTik's RB-LHGSM is an advanced pole mount adapter manufactured from high-strength metal. The solidMOUNT is compatible with all LHG series products and allows for both vertical and horizontal adjustments. The unit includes a U-bolt and mounting kit.",
+          "manufacturer": "Mikrotik"
+        },
+        {
+          "code": 58,
+          "name": "MikroTik LHG Series Metal Pole Mount Bracket | solidMOUNT",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/mikrotik-lhg-series-metal-pole-mount-bracket/1.jpg"
+          ],
+          "priceInclVat": 575.00,
+          "dealerExclVat": 395.00,
+          "sku": "RB-LHGSM",
+          "details": "MikroTik's RB-LHGSM is an advanced pole mount adapter manufactured from high-strength metal. The solidMOUNT is compatible with all LHG series products and allows for both vertical and horizontal adjustments. The unit includes a U-bolt and mounting kit.",
+          "manufacturer": "Mikrotik"
+        },
+        {
+          "code": 59,
+          "name": "MikroTik QuickMount for Small Pole Mount Devices | QM",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/mikrotik-ltap-dinrail-pro-mounting-bracket/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/mikrotik-ltap-dinrail-pro-mounting-bracket/2.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/mikrotik-ltap-dinrail-pro-mounting-bracket/3.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/mikrotik-ltap-dinrail-pro-mounting-bracket/4.jpg"
+          ],
+          "priceInclVat": 65.00,
+          "dealerExclVat": 45.00,
+          "sku": "RB-QM",
+          "details": "MikroTik's RB-QM is a basic wall mount adapter for small point to point and sector antennas weighing under 1.5Kg. The RB-QM can wall-mount or be used as an adapter from a large diameter pole to smaller antenna mounting. The quickMOUNT allows for 190° horizontal adjustment.",
+          "manufacturer": "Mikrotik",
+          "featured": true
+        },
+        {
+          "code": 60,
+          "name": "MikroTik QuickMount Pro for Sectors and SXT | QMP",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/mikrotik-quickmount-pro-for-sectors-and-sxt-qmp/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/mikrotik-quickmount-pro-for-sectors-and-sxt-qmp/2.jpg"
+          ],
+          "priceInclVat": 135.00,
+          "dealerExclVat": 95.00,
+          "sku": "RB-QMP",
+          "details": "Scoop's RB-QMP, quickMOUNT pro by MikroTik RouterBOARD is an advanced wall mount adapter for small point-to-point and sector antennas. You can mount it on the wall or use it as an adapter from a large diameter pole to a small sized antenna mounting clip to ensure reliable fitment. The quickMOUNT pro make it possible to adjust an antenna within 140° in both, horizontal and vertical planes. With the quickMOUNT pro it is possible to set a perfectly aligned antenna using an integrated graduated scale. The quickMOUNT is very durable due to it's special plastic composite material - anvilNITE (TM).",
+          "manufacturer": "Mikrotik"
+        },
+        {
+          "code": 61,
+          "name": "MikroTik QuickMount Pro for Light Head Grid | QMP-LHG",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/mikrotik-quickmount-pro-for-sectors-and-sxt-qmp/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/mikrotik-quickmount-pro-for-sectors-and-sxt-qmp/2.jpg"
+          ],
+          "priceInclVat": 130.00,
+          "dealerExclVat": 90.00,
+          "sku": "RB-QMPLHG",
+          "details": "MikroTik's RB-QMP is an advanced wall mount adapter for MikroTik's LHG antennas. You can mount it on the wall or use it as an adapter from a large diameter pole to a small-sized antenna mounting clip to ensure reliable fitment. The quickMOUNT pro makes it possible to adjust an antenna within 140° in both, horizontal and vertical planes. With the quickMOUNT pro it is possible to set a perfectly aligned antenna using an integrated graduated scale. The quickMOUNT is very durable due to its special plastic composite material - anvilNITE (TM).",
+          "manufacturer": "Mikrotik"
+        },
+        {
+          "code": 62,
+          "name": "MikroTik quickMOUNT X Pole Mount Bracket for SXTSQ | QM-X",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/mikrotik-quickmount-x-pole-mount-bracket/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/mikrotik-quickmount-x-pole-mount-bracket/2.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/mikrotik-quickmount-x-pole-mount-bracket/3.jpg"
+          ],
+          "priceInclVat": 60.00,
+          "dealerExclVat": 40.00,
+          "sku": "RB-QMX",
+          "details": "MikroTik's RB-QMP is an advanced wall mount adapter for MikroTik's LHG antennas. You can mount it on the wall or use it as an adapter from a large diameter pole to a small-sized antenna mounting clip to ensure reliable fitment. The quickMOUNT pro makes it possible to adjust an antenna within 140° in both, horizontal and vertical planes. With the quickMOUNT pro it is possible to set a perfectly aligned antenna using an integrated graduated scale. The quickMOUNT is very durable due to its special plastic composite material - anvilNITE (TM).",
+          "manufacturer": "Mikrotik"
+        },
+        {
+          "code": 63,
+          "name": "38mm Aluminium Pole / Mast 2M",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/38-aluminium-pole/1.jpg"
+          ],
+          "priceInclVat": 250.00,
+          "dealerExclVat": 175.00,
+          "sku": "TUB-AU",
+          "details": "Scoop's TUB-AU is a 38mm Aluminium pole of 2 metres.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 64,
+          "name": "50mm Aluminium Pole / Mast 3M",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/50-aluminium-pole-mast-3m/1.jpg"
+          ],
+          "priceInclVat": 995.00,
+          "dealerExclVat": 695.00,
+          "sku": "TUB-AU",
+          "details": "Scoop's TUB-AU3 is a 50mm x 5mm x 3 Meter Aluminium pole.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 64,
+          "name": "50mm Aluminium Pole / Mast 6M",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/50-aluminium-pole-mast-6m/1.jpg"
+          ],
+          "priceInclVat": 1995.00,
+          "dealerExclVat": 1395.00,
+          "sku": "TUB-AU6",
+          "details": "Scoop's TUB-AU6 is a 50mm x 5mm x 6 Meter Aluminium pole.",
+          "manufacturer": "Locally Sourced",
+          "featured": true
+        },
+        {
+          "code": 65,
+          "name": "Galvanised 50mm Pole / Mast 1M",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/galvanised-50-pole-mast-1m/1.jpg"
+          ],
+          "priceInclVat": 180.00,
+          "dealerExclVat": 125.00,
+          "sku": "TUBE-1M",
+          "details": "Scoop's TUB-AU6 is a 50mm x 5mm x 6 Meter Aluminium pole.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 66,
+          "name": "Galvanised 50mm Pole / Mast 2M",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/galvanised-50-pole-mast-2m/1.jpg"
+          ],
+          "priceInclVat": 350.00,
+          "dealerExclVat": 250.00,
+          "sku": "TUBE-2M",
+          "details": "Scoop's TUBE-2M is a 50mm Galvanised pole of 2 metres.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 67,
+          "name": "Galvanised 50mm Pole / Mast 3M",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/galvanised-50-pole-mast-3m/1.jpg"
+          ],
+          "priceInclVat": 550.00,
+          "dealerExclVat": 375.00,
+          "sku": "TUBE-3M",
+          "details": "Scoop's TUBE-3M is a 50mm Galvanised pole of 3 metres.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 68,
+          "name": "Galvanised 50mm Pole / Mast 6M",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/galvanised-50-pole-mast-6m/1.jpg"
+          ],
+          "priceInclVat": 1075.00,
+          "dealerExclVat": 750.00,
+          "sku": "TUBE-6M",
+          "details": "Scoop's TUBE-6M is a 50mm Galvanised pole of 6 metres.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 69,
+          "name": "Ubiquiti Universal Antenna Mount | UB-AM",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/galvanised-50-pole-mast-6m/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/galvanised-50-pole-mast-6m/2.jpg"
+          ],
+          "priceInclVat": 175.00,
+          "dealerExclVat": 125.00,
+          "sku": "UB-AM",
+          "details": "Introducing Scoop's UB-AM, Universal Arm Bracket by Ubiquiti. Designed for wall or pole mounting, the UB-AM provides a versatile and robust solution for mounting all of your devices. The UB-AM does not include screws for wall mounting. Please order separately.",
+          "manufacturer": "Ubiquiti"
+        },
+        {
+          "code": 70,
+          "name": "Ubiquiti Toolless Quick-Mount for Ubiquiti CPE's | QUICK-MOUNT",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-toolless-quick-mount/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-toolless-quick-mount/2.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-toolless-quick-mount/3.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-toolless-quick-mount/4.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-toolless-quick-mount/5.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-toolless-quick-mount/6.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-toolless-quick-mount/7.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-toolless-quick-mount/8.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-toolless-quick-mount/9.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-toolless-quick-mount/10.jpg"
+          ],
+          "priceInclVat": 475.00,
+          "dealerExclVat": 325.00,
+          "sku": "UB-QM",
+          "details": "Ubiquiti's UB-QM is a tool-less quick-mount which is compatible with various Ubiquiti CPE devices. Note: CPE devices are not included.",
+          "manufacturer": "Ubiquiti"
+        },
+        {
+          "code": 71,
+          "name": "Ubiquiti Precision Alignment Mount for GBE-60LR | 60G-PM",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-precision-alignment-mount/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-precision-alignment-mount/2.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-precision-alignment-mount/3.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-precision-alignment-mount/4.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-precision-alignment-mount/5.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-precision-alignment-mount/6.jpg"
+          ],
+          "priceInclVat": 1775.00,
+          "dealerExclVat": 1225.00,
+          "sku": "UB60-PM",
+          "details": "Ubiquiti's UB60-PM is a precision alignment mount made specifically for the GBE-60LR. This unit enhances mounting flexibility and device alignment. It features an easy-to-use design that requires only the included Allen wrench to align.",
+          "manufacturer": "Ubiquiti"
+        },
+        {
+          "code": 72,
+          "name": "U-Bolt 50mm Mild Steel",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/ubolt-50-mild-steel/1.jpg"
+          ],
+          "priceInclVat": 12.50,
+          "dealerExclVat": 8.50,
+          "sku": "UBOLT",
+          "details": "Scoop's UBOLT is a 50mm mild steel U-Bolt.",
+          "manufacturer": "Ubiquiti"
+        },
+        {
+          "code": 73,
+          "name": "Ubiquiti UniFi Protect UVC-G3FLEX Ceiling Mount 3 Pack | UVC-G3-F-C-3",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-unifi-protect/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-unifi-protect/2.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-unifi-protect/3.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-unifi-protect/4.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-unifi-protect/5.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-unifi-protect/6.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-unifi-protect/7.jpg"
+          ],
+          "priceInclVat": 1150.00,
+          "dealerExclVat": 795.00,
+          "sku": "UVC-G3FLEX-CM3",
+          "details": "Ubiquiti's UVC-G3FLEX-CM3 is a recessed ceiling mount accessory for the UVC-G3-FLEX camera. Mount your camera inside the ceiling or a ceiling tile for a clean, low-profile installation. Includes mounting hardware for drywall, solid surface, or ceiling tile installation. An optional screw locks the camera to the mount from above for added security. The UVC-G3FLEX-CM3 is packaged to include 3 units per pack.",
+          "manufacturer": "Ubiquiti"
+        },
+        {
+          "code": 74,
+          "name": "Ubiquiti UniFi Protect UVC-G3FLEX Professional Wall Mount | UVC-G3-Flex-PWM-WT",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-unifi-protect-uvc-wall/1.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-unifi-protect-uvc-wall/2.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-unifi-protect-uvc-wall/3.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-unifi-protect-uvc-wall/4.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-unifi-protect-uvc-wall/5.jpg",
+            "assets/images/products/installation-accessories/brackets-masts/ubiquiti-unifi-protect-uvc-wall/6.jpg"
+          ],
+          "priceInclVat": 275.00,
+          "dealerExclVat": 195.00,
+          "sku": "UVC-G3FLEX-PWM",
+          "details": "Ubiquiti's UVC-G3FLEX-PWM is a flexible outdoor mounting option for the UVC-G3FLEX IP Camera. It's IPX4-rated for splash resistance and supports upside-down mounting. The camera image orientation is automatically adjusted in the UniFi Protect software.",
+          "manufacturer": "Ubiquiti"
+        }
+      ],
+      "tape": [
+        {
+          "code": 75,
+          "name": "Butyl Tape 30mmx1.5mm 1Kg",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/tape/butyl-tape-30-1.5/1.jpg"
+          ],
+          "priceInclVat": 165.00,
+          "dealerExclVat": 115.00,
+          "sku": "BUTYL",
+          "details": "Scoop's Butyl Tape will adhere to all metals, glass, plastics, concrete and porous surfaces. It is 30mm x 1.5mm x 15m.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 76,
+          "name": "Butyl Tape 30mmx1.5mmx1m",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/tape/butyl-tape-30-1.5-1/1.jpg"
+          ],
+          "priceInclVat": 15.00,
+          "dealerExclVat": 10.50,
+          "sku": "BUTYL-MINI",
+          "details": "Scoop's Butyl Tape will adhere to all metals, glass, plastics, concrete and porous surfaces. It is 30mm x 1.5mm x 1m.",
+          "manufacturer": "Locally Sourced",
+          "featured": true
+        },
+        {
+          "code": 77,
+          "name": "Black Nitto Tape",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/tape/black-nitto-tape/1.jpg"
+          ],
+          "priceInclVat": 25.00,
+          "dealerExclVat": 17.00,
+          "sku": "NIT-1",
+          "details": "Scoops NIT-1 is High-Quality Nitto Black Flame Retardant Tape.",
+          "manufacturer": "Locally Sourced"
+        }
+      ],
+      "tools": [
+        {
+          "code": 78,
+          "name": "6mm Cable Clips 100 Pack White",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/tools/6-cable-clips-100/1.jpg",
+            "assets/images/products/installation-accessories/tools/6-cable-clips-100/2.jpg",
+            "assets/images/products/installation-accessories/tools/6-cable-clips-100/3.jpg"
+          ],
+          "priceInclVat": 12.50,
+          "dealerExclVat": 8.50,
+          "sku": "CC-W6",
+          "details": "Scoops 6mm round cable clips are sold in packets of 100 units and are ideal for use with CAT5e and CAT6 UTP cable as well as CAT5e UV protected outdoor cable. For CAT6 Outdoor UV protected cable we recommend using the CC-W8 8mm cable clips.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 79,
+          "name": "8mm Cable Clips 100 Pack White",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/tools/8-cable-clips-100/1.jpg",
+            "assets/images/products/installation-accessories/tools/8-cable-clips-100/2.jpg",
+            "assets/images/products/installation-accessories/tools/8-cable-clips-100/3.jpg"
+          ],
+          "priceInclVat": 17.50,
+          "dealerExclVat": 12.00,
+          "sku": "CC-W8",
+          "details": "Scoop's 8mm round cable clips are sold in packets of 100 units and are ideal for use with CAT6 UV protected outdoor cable. For CAT5e and CAT6 UTP and CAT5e UV Protected cable we recommend using the CC-W6 6mm cable clips.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 80,
+          "name": "Glue Gun",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/tools/glue-glun/1.jpg"
+          ],
+          "priceInclVat": 245.00,
+          "dealerExclVat": 165.00,
+          "sku": "GLU-GUN",
+          "details": "Scoop's GLU-GUN is an extra powerful, 80W glue gun that will melt most brands of glue sticks. It carries a GS safety mark and is double insulated.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 81,
+          "name": "Glue Sticks",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/tools/glue-sticks/1.jpg"
+          ],
+          "priceInclVat": 5.50,
+          "dealerExclVat": 3.95,
+          "sku": "GLU-STI",
+          "details": "Scoop's GLU-STI is the standard 300mm length glue sticks used in standard-sized glue guns. The glue sticks are commonly used for sealing outdoor enclosures or keeping wiring in position on walls or ceilings. *Note: The glue sticks can be used with most glue guns.",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 82,
+          "name": "MikroTik MQS Mobile Quick Setup Tool with PoE Output | RBMQS",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/tools/mikrotik-mqs-mobile-quick-setup/1.jpg",
+            "assets/images/products/installation-accessories/tools/mikrotik-mqs-mobile-quick-setup/2.jpg",
+            "assets/images/products/installation-accessories/tools/mikrotik-mqs-mobile-quick-setup/3.jpg",
+            "assets/images/products/installation-accessories/tools/mikrotik-mqs-mobile-quick-setup/4.jpg",
+            "assets/images/products/installation-accessories/tools/mikrotik-mqs-mobile-quick-setup/5.jpg",
+            "assets/images/products/installation-accessories/tools/mikrotik-mqs-mobile-quick-setup/6.jpg",
+            "assets/images/products/installation-accessories/tools/mikrotik-mqs-mobile-quick-setup/7.jpg",
+            "assets/images/products/installation-accessories/tools/mikrotik-mqs-mobile-quick-setup/8.jpg",
+            "assets/images/products/installation-accessories/tools/mikrotik-mqs-mobile-quick-setup/9.jpg",
+            "assets/images/products/installation-accessories/tools/mikrotik-mqs-mobile-quick-setup/10.jpg"
+          ],
+          "priceInclVat": 525.00,
+          "dealerExclVat": 375.00,
+          "sku": "RB-MQS",
+          "details": "MikroTik's RB-MQS fits in your pocket and is designed to allow you to manage MikroTik and other devices (including Ethernet-only) from your smartphone over a Wi-Fi connection. The RB-MQS can be powered from a power bank or a USB charger. It has PoE out to power your devices which allows you to perform maintenance, diagnostics or Netinstall without electricity.",
+          "manufacturer": "Mikrotik"
+        },
+        {
+          "code": 83,
+          "name": "Linkbasic UTP Combo Crimp Tool RJ11/RJ12/RJ45",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/tools/linkbasic-utp-combo-crimp-tool/1.jpg"
+          ],
+          "priceInclVat": 165.00,
+          "dealerExclVat": 115.00,
+          "sku": "TOOL-CRIMP",
+          "details": "Linkbasic's UTP Ratchet Crimp tool is used for crimping UTP RJ45 connectors. This rugged, heavy-duty tool is used to crimp, strip and cut UTP or Modular Cable. The parallel action design maintains accurate alignment of the die with the plug for a precision crimp every time.",
+          "manufacturer": "Linkbasic"
+        },
+        {
+          "code": 84,
+          "name": "Scoop EZ Combo RJ45 Crimp Tool",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/tools/scoop-ez-combo/1.jpg",
+            "assets/images/products/installation-accessories/tools/scoop-ez-combo/2.jpg",
+            "assets/images/products/installation-accessories/tools/scoop-ez-combo/3.jpg",
+            "assets/images/products/installation-accessories/tools/scoop-ez-combo/4.jpg",
+            "assets/images/products/installation-accessories/tools/scoop-ez-combo/5.jpg",
+            "assets/images/products/installation-accessories/tools/scoop-ez-combo/6.jpg",
+            "assets/images/products/installation-accessories/tools/scoop-ez-combo/7.jpg",
+            "assets/images/products/installation-accessories/tools/scoop-ez-combo/8.jpg",
+            "assets/images/products/installation-accessories/tools/scoop-ez-combo/9.jpg"
+          ],
+          "priceInclVat": 395.00,
+          "dealerExclVat": 275.00,
+          "sku": "TOOL-EZCRIMP",
+          "details": "Scoop's TOOL-EZCRIMP features a solid and robust RJ45/RJ11 crimping, stripper and side cutter tool. It is designed for standard RJ45 connectors as well as the EZ Crimp range of pass-through modular plugs. The EZ range of RJ45 connectors allows you to push the eight strands of UTP cable through the connector and once crimped, the crimper cuts off any excess copper. Note: EZ RJ45 connectors not included. ",
+          "manufacturer": "Scoop"
+        },
+        {
+          "code": 85,
+          "name": "Linkbasic UTP Krone Tool",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/tools/linkbasic-utp-krone/1.jpg"
+          ],
+          "priceInclVat": 45.00,
+          "dealerExclVat": 30.00,
+          "sku": "TOOL-KRONE",
+          "details": "Linkbasic's versatile Krone Tool terminates and trims wires with one punch. It's the only tool you'll need to add, change or remove Krone connections.",
+          "manufacturer": "Linkbasic"
+        },
+        {
+          "code": 85,
+          "name": "Passive and 802.3af/at PoE Detector",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/tools/passive-and-802.3af-detector/1.jpg",
+            "assets/images/products/installation-accessories/tools/passive-and-802.3af-detector/2.jpg"
+          ],
+          "priceInclVat": 95.00,
+          "dealerExclVat": 65.00,
+          "sku": "TOOL-POE",
+          "details": "Scoop's TOOL-POE, is designed for testing the PoE on an ethernet cable. This can be used with Passive Injectors, 802.3af, 802.3at, 802.3bt, 568A, 568B or reverse polarity PoE. Mode A and B are also both supported. It is a very handy tool for installers when needing to confirm whether a cable is carrying POE or not. This tool is small enough to fit on a keyring.",
+          "manufacturer": "Scoop"
+        },
+        {
+          "code": 86,
+          "name": "Linkbasic UTP Cable Stripper Tool",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/tools/linkbasic-utp-cable-stripper/1.jpg"
+          ],
+          "priceInclVat": 40.00,
+          "dealerExclVat": 25.00,
+          "sku": "TOOL-STRIP",
+          "details": "Linkbasic's cable stripping tool is designed to reduce the time required to prepare both coaxial and twisted-pair cable for termination. The tool includes an adjustable cutting blade, which is specifically designed to accurately strip the jacket from a 4-pair cable without damaging the conductors.",
+          "manufacturer": "Linkbasic"
+        },
+        {
+          "code": 87,
+          "name": "Linkbasic UTP Cable Tester",
+          "imageSrc": [
+            "assets/images/products/installation-accessories/tools/linkbasic-utp-cable-tester/1.jpg"
+          ],
+          "priceInclVat": 135.00,
+          "dealerExclVat": 95.00,
+          "sku": "TOOL-TEST",
+          "details": "Linkbasic's UTP Cable Tester allows you to inspect/test network cable, LAN RJ45 and RJ11. It is designed for testing the UTP and screens for the opens, shorts, reversals, mis-wiring and so on. The relative indicators on the main tester and the remote testing terminal will flash one by one in cycle to judge which wire is in the correct working connection, or in the incorrect order connection.",
+          "manufacturer": "Linkbasic"
+        }
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "category": "enclosures and containment",
+    "subCategories": ["pvc products", "large enclosures"],
+    "products": {
+      "pvc products": [
+        {
+          "code": 98,
+          "name": "PVC Halfmoon Trunking 48mm",
+          "imageSrc": [
+            "assets/images/products/enclosures-and-containment/pvc-trunking/halfmoon/1.jpeg"
+          ],
+          "priceInclVat": 0,
+          "dealerExclVat": 0,
+          "sku": "not specified",
+          "details": "3 Channel Halfmoon Trunking - 48mm Width",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 100,
+          "name": "PVC Rectangular Trunking - 100*100 3m Length",
+          "imageSrc": [
+            "assets/images/products/enclosures-and-containment/pvc-trunking/rectangular-trunking-100-100-3/1.jpg"
+          ],
+          "priceInclVat": 0,
+          "dealerExclVat": 0,
+          "sku": "not specified",
+          "details": "PVC Rectangular Trunking - 100*100 3m Length",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 101,
+          "name": "PVC Rectangular Trunking - 16*16 2m Length",
+          "imageSrc": [
+            "assets/images/products/enclosures-and-containment/pvc-trunking/rectangular-trunking-16-16-2/1.jpg"
+          ],
+          "priceInclVat": 0,
+          "dealerExclVat": 0,
+          "sku": "not specified",
+          "details": "PVC Rectangular Trunking - 16*16 2m Length",
+          "manufacturer": "Locally Sourced",
+          "featured": true
+        },
+        {
+          "code": 102,
+          "name": "PVC Rectangular Trunking - 16*25 3m Length",
+          "imageSrc": [
+            "assets/images/products/enclosures-and-containment/pvc-trunking/rectangular-trunking-16-25-3/1.jpg"
+          ],
+          "priceInclVat": 0,
+          "dealerExclVat": 0,
+          "sku": "not specified",
+          "details": "PVC Rectangular Trunking - 16*25 3m Length",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 103,
+          "name": "PVC Rectangular Trunking - 16*40 3m Length",
+          "imageSrc": [
+            "assets/images/products/enclosures-and-containment/pvc-trunking/rectangular-trunking-16-40-3/1.jpg"
+          ],
+          "priceInclVat": 0,
+          "dealerExclVat": 0,
+          "sku": "not specified",
+          "details": "PVC Rectangular Trunking - 16*40 3m Length",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 104,
+          "name": "PVC Rectangular Trunking - 25*40 3m Length",
+          "imageSrc": [
+            "assets/images/products/enclosures-and-containment/pvc-trunking/rectangular-trunking-25-40-3/1.jpg"
+          ],
+          "priceInclVat": 0,
+          "dealerExclVat": 0,
+          "sku": "not specified",
+          "details": "PVC Rectangular Trunking - 25*40 3m Length",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 105,
+          "name": "PVC Rectangular Trunking - 40*100 3m Length",
+          "imageSrc": [
+            "assets/images/products/enclosures-and-containment/pvc-trunking/rectangular-trunking-40-100-3/1.jpg"
+          ],
+          "priceInclVat": 0,
+          "dealerExclVat": 0,
+          "sku": "not specified",
+          "details": "PVC Rectangular Trunking - 40*100 3m Length",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 106,
+          "name": "PVC Rectangular Trunking - 40*40 3m Length",
+          "imageSrc": [
+            "assets/images/products/enclosures-and-containment/pvc-trunking/rectangular-trunking-40-40-3/1.jpg"
+          ],
+          "priceInclVat": 0,
+          "dealerExclVat": 0,
+          "sku": "not specified",
+          "details": "PVC Rectangular Trunking - 40*40 3m Length",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 107,
+          "name": "PVC Rectangular Trunking - 75*75 3m Length",
+          "imageSrc": [
+            "assets/images/products/enclosures-and-containment/pvc-trunking/rectangular-trunking-75-75-3/1.jpg"
+          ],
+          "priceInclVat": 0,
+          "dealerExclVat": 0,
+          "sku": "not specified",
+          "details": "PVC Rectangular Trunking - 75*75 3m Length",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 108,
+          "name": "PVC Slotted Trunking - 40*40",
+          "imageSrc": [
+            "assets/images/products/enclosures-and-containment/pvc-trunking/slotted-trunking-40-40/1.jpeg",
+            "assets/images/products/enclosures-and-containment/pvc-trunking/slotted-trunking-40-40/2.jpeg"
+          ],
+          "priceInclVat": 0,
+          "dealerExclVat": 0,
+          "sku": "not specified",
+          "details": "PVC Slotted Trunking - 40*40",
+          "manufacturer": "Locally Sourced"
+        },
+        {
+          "code": 109,
+          "name": "PVC Slotted Trunking - 100*100",
+          "imageSrc": [
+            "assets/images/products/enclosures-and-containment/pvc-trunking/slotted-trunking-100-100/1.jpeg",
+            "assets/images/products/enclosures-and-containment/pvc-trunking/slotted-trunking-100-100/2.jpeg"
+          ],
+          "priceInclVat": 0,
+          "dealerExclVat": 0,
+          "sku": "not specified",
+          "details": "PVC Slotted Trunking - 100*100",
+          "manufacturer": "Locally Sourced"
+        }
+      ],
+      "large enclosures": []
+    }
+  },
+  {
+    "categoryId": 4,
+    "category": "information technology",
+    "subCategories": ["screens and monitors", "internal/external storages"],
+    "products": {
+      "screens and monitors": [],
+      "internal/external storages": []
+    }
+  },
+  {
+    "categoryId": 5,
+    "category": "toolkits",
+    "subCategories": ["equipment"],
+    "products": {
+      "equipment": []
+    }
+  }
+]
