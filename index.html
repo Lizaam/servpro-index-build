@@ -1,173 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>ServPro</title>
-    <base href="/" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="title" content="Home / ServPro" />
-    <meta
-      name="description"
-      content="ServPro is a distributor of any and all supplies required
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <title>ServPro</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="title" content="Home / ServPro">
+  <meta name="description" content="ServPro is a distributor of any and all supplies required
     for small, medium and large enterprise clients with a high level of
     professionalism, integrity and knowledge, offering quality assurance
-    and constant access to telecommunications resources."
-    />
-    <meta
-      name="keywords"
-      content="computers, screens, mouse, it, keybord, ink cartridges, pc components, hard drives, cds, drivers, cables, gaming, dvd, credit card transactions, on-line computer shop, hardware specials, software specials, list your products, latest computer prices, specials, computer store, South Africa, cheap prices, unbeatable deals, fast and easy"
-    />
-    <meta name="robots" content="all" />
-    <meta name="author" content="all" />
-    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    and constant access to telecommunications resources.">
+  <meta name="keywords" content="computers, screens, mouse, it, keybord, ink cartridges, pc components, hard drives, cds, drivers, cables, gaming, dvd, credit card transactions, on-line computer shop, hardware specials, software specials, list your products, latest computer prices, specials, computer store, South Africa, cheap prices, unbeatable deals, fast and easy">
+  <meta name="robots" content="all">
+  <meta name="author" content="all">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
 
-    <!-- Google Tag Manager -->
-    <script>
-      (function (w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({
-          "gtm.start": new Date().getTime(),
-          event: "gtm.js",
-        });
-        var f = d.getElementsByTagName(s)[0],
-          j = d.createElement(s),
-          dl = l != "dataLayer" ? "&l=" + l : "";
-        j.async = true;
-        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
-        f.parentNode.insertBefore(j, f);
-      })(window, document, "script", "dataLayer", "GTM-W84M2KV");
-    </script>
-    <!-- End Google Tag Manager -->
-    <style>
-      @import "https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900";
-      html,
-      body {
-        margin: 0;
-        padding: 0;
-        border: 0;
-        outline: 0;
-      }
-      * {
-        box-sizing: border-box;
-      }
-      html,
-      body {
-        font-family: Poppins, sans-serif;
-        font-weight: 400;
-        background-color: #fff;
-        font-size: 16px;
-        -ms-text-size-adjust: 100%;
-        -webkit-font-smoothing: antialiased;
-        -moz-osx-font-smoothing: grayscale;
-      }
-      html,
-      body {
-        background: #fff;
-        font-family: Poppins, sans-serif;
-      }
-      @media (max-width: 991px) {
-        html,
-        body {
-          overflow-x: hidden;
-        }
-      }
-      @media (max-width: 767px) {
-        html,
-        body {
-          text-align: center !important;
-        }
-      }
-      :root {
-        --blue: #007bff;
-        --indigo: #6610f2;
-        --purple: #6f42c1;
-        --pink: #e83e8c;
-        --red: #dc3545;
-        --orange: #fd7e14;
-        --yellow: #ffc107;
-        --green: #28a745;
-        --teal: #20c997;
-        --cyan: #17a2b8;
-        --white: #fff;
-        --gray: #6c757d;
-        --gray-dark: #343a40;
-        --primary: #007bff;
-        --secondary: #6c757d;
-        --success: #28a745;
-        --info: #17a2b8;
-        --warning: #ffc107;
-        --danger: #dc3545;
-        --light: #f8f9fa;
-        --dark: #343a40;
-        --breakpoint-xs: 0;
-        --breakpoint-sm: 576px;
-        --breakpoint-md: 768px;
-        --breakpoint-lg: 992px;
-        --breakpoint-xl: 1200px;
-        --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI",
-          Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
-          "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
-          "Noto Color Emoji";
-        --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
-          "Liberation Mono", "Courier New", monospace;
-      }
-      *,
-      :after,
-      :before {
-        box-sizing: border-box;
-      }
-      html {
-        font-family: sans-serif;
-        line-height: 1.15;
-        -webkit-text-size-adjust: 100%;
-        -webkit-tap-highlight-color: transparent;
-      }
-      body {
-        margin: 0;
-        font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
-          Helvetica Neue, Arial, Noto Sans, sans-serif, "Apple Color Emoji",
-          "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
-        font-size: 1rem;
-        font-weight: 400;
-        line-height: 1.5;
-        color: #212529;
-        text-align: left;
-        background-color: #fff;
-      }
-      @media print {
-        *,
-        :after,
-        :before {
-          text-shadow: none !important;
-          box-shadow: none !important;
-        }
-        @page {
-          size: a3;
-        }
-        body {
-          min-width: 992px !important;
-        }
-      }
-      :root {
-        --swiper-theme-color: #007aff;
-      }
-    </style>
-    <link
-      rel="stylesheet"
-      href="styles.23ebfd1ff7e554be.css"
-      media="print"
-      onload="this.media='all'"
-    />
-    <noscript
-      ><link rel="stylesheet" href="styles.23ebfd1ff7e554be.css"
-    /></noscript>
-  </head>
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W84M2KV');
+  </script>
+  <!-- End Google Tag Manager -->
+<style>@import"https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900";html,body{margin:0;padding:0;border:0;outline:0}*{box-sizing:border-box}html,body{font-family:Poppins,sans-serif;font-weight:400;background-color:#fff;font-size:16px;-ms-text-size-adjust:100%;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}html,body{background:#fff;font-family:Poppins,sans-serif}@media (max-width: 991px){html,body{overflow-x:hidden}}@media (max-width: 767px){html,body{text-align:center!important}}:root{--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#007bff;--secondary:#6c757d;--success:#28a745;--info:#17a2b8;--warning:#ffc107;--danger:#dc3545;--light:#f8f9fa;--dark:#343a40;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--font-family-sans-serif:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--font-family-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}*,:after,:before{box-sizing:border-box}html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,"Apple Color Emoji","Segoe UI Emoji",Segoe UI Symbol,"Noto Color Emoji";font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff}@media print{*,:after,:before{text-shadow:none!important;box-shadow:none!important}@page{size:a3}body{min-width:992px!important}}:root{--swiper-theme-color:#007aff}</style><link rel="stylesheet" href="styles.23ebfd1ff7e554be.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.23ebfd1ff7e554be.css"></noscript></head>
 
-  <body>
-    <app-root></app-root>
-    <script src="./runtime.fc3af9f68656745c.js" type="module"></script>
-    <script src="./polyfills.204fb70d66b8d34a.js" type="module"></script>
-    <script src="./scripts.5c226f9350f47597.js" defer></script>
-    <script src="./main.657791b0692544bc.js" type="module"></script>
-  </body>
-</html>
+<body>
+  <app-root></app-root>
+<script src="runtime.fc3af9f68656745c.js" type="module"></script><script src="polyfills.204fb70d66b8d34a.js" type="module"></script><script src="scripts.5c226f9350f47597.js" defer></script><script src="main.657791b0692544bc.js" type="module"></script>
+
+</body></html>
