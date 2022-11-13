@@ -55,8 +55,7 @@
           "dealerExclVat": 20.0,
           "sku": "MA-MIEC10AC",
           "details": "Scoop's IEC-MALE is a 10A 3-Pin Male IEC connector. Note: 3x Ring Terminals are required but are not included.",
-          "manufacturer": "Locally Sourced",
-          "featured": true
+          "manufacturer": "Locally Sourced"
         },
         {
           "code": 5,
@@ -164,8 +163,7 @@
           "dealerExclVat": 95.0,
           "sku": "MA-CSPMP516A55AM",
           "details": "Scoop's MP-10WSUR is a 10-way multi-plug that is made up of 5x 16A 3-pin sockets, 4x 5A 2-pin sockets and 1x 5A 2-pin round socket. This multi-plug has a half meter cord with a molded plug and offers overload and surge protection.",
-          "manufacturer": "Locally Sourced",
-          "featured": true
+          "manufacturer": "Locally Sourced"
         },
         {
           "code": 13,
@@ -177,8 +175,7 @@
           "dealerExclVat": 135.0,
           "sku": "MP-CSMP516A55AM",
           "details": "Scoop's MP-10WSWI is a switched 10-way multi-plug that is made up of 5x 16A 3-pin sockets, 4x 5A 2-pin sockets and 1x 5A 2-pin round socket. This multi-plug has a half meter cord with a moulded plug and offers overload protection.",
-          "manufacturer": "Locally Sourced",
-          "featured": true
+          "manufacturer": "Locally Sourced"
         },
         {
           "code": 14,
@@ -740,8 +737,7 @@
           "dealerExclVat": 375.0,
           "sku": "BRA-FM",
           "details": "Scoop's BRA-FM is a heavy duty flush mount bracket that can be used for applications that require a rock steady installation. It is made from galvanized steel which prevents rusting. Clamps are included to avoid any wear and tear on your masts.",
-          "manufacturer": "Locally Sourced",
-          "featured": true
+          "manufacturer": "Locally Sourced"
         },
         {
           "code": 40,
@@ -1001,8 +997,7 @@
           "dealerExclVat": 45.0,
           "sku": "RB-QM",
           "details": "MikroTik's RB-QM is a basic wall mount adapter for small point to point and sector antennas weighing under 1.5Kg. The RB-QM can wall-mount or be used as an adapter from a large diameter pole to smaller antenna mounting. The quickMOUNT allows for 190° horizontal adjustment.",
-          "manufacturer": "Mikrotik",
-          "featured": true
+          "manufacturer": "Mikrotik"
         },
         {
           "code": 60,
@@ -1078,8 +1073,7 @@
           "dealerExclVat": 1395.0,
           "sku": "TUB-AU6",
           "details": "Scoop's TUB-AU6 is a 50mm x 5mm x 6 Meter Aluminium pole.",
-          "manufacturer": "Locally Sourced",
-          "featured": true
+          "manufacturer": "Locally Sourced"
         },
         {
           "code": 65,
@@ -1251,8 +1245,7 @@
           "dealerExclVat": 10.5,
           "sku": "BUTYL-MINI",
           "details": "Scoop's Butyl Tape will adhere to all metals, glass, plastics, concrete and porous surfaces. It is 30mm x 1.5mm x 1m.",
-          "manufacturer": "Locally Sourced",
-          "featured": true
+          "manufacturer": "Locally Sourced"
         },
         {
           "code": 77,
@@ -1465,8 +1458,7 @@
           "dealerExclVat": 0,
           "sku": "not specified",
           "details": "PVC Rectangular Trunking - 16*16 2m Length",
-          "manufacturer": "Locally Sourced",
-          "featured": true
+          "manufacturer": "Locally Sourced"
         },
         {
           "code": 102,
@@ -3079,7 +3071,8 @@
             "Dimensions (L x W x H) 105 x 84 x 26mm"
           ],
           "moreInformation": "The Ifatel power bank includes ODP (Over-Discharge Protection), OCP (Over-Current Protection), SCP (Short Circuit Protection), OVP (Over-Voltage Protection) and OCP (Overcharge Protection) to protect the battery and the device you're charging. As an extra safety feature, the Ifatel power bank  automatically turns off if your device is idle, disconnected or fully charged.",
-          "manufacturer": "Locally Sourced"
+          "manufacturer": "Locally Sourced",
+          "featured": true
         },
         {
           "code": 135,
@@ -3103,7 +3096,8 @@
             "Dimensions (L x W x H) 105 x 84 x 26mm"
           ],
           "moreInformation": "The auto-power function ensures that your power bank turns on or shuts off automatically when connected or disconnected from a device. It is safe, reliable and perfect for using on traveling and outdoor activities as well as during load shedding, To recharge the power bank once it has depleted is by connecting it to a USB port on a power adaptor or laptop with the Micro USB charging cable that is included in the package.",
-          "manufacturer": "Locally Sourced"
+          "manufacturer": "Locally Sourced",
+          "featured": true
         },
         {
           "code": 136,
@@ -3127,7 +3121,8 @@
             "Dimension: 22x24x96mm"
           ],
           "moreInformation": "The way of charging is connecting portable power bank with USB and laptop. It can easy to use and solve no power for your device anytime. It is safe, reliable and perfect for using on traveling and outdoor activities. Stylish design, Fashionable looking. This power bank can charge your device rapidly and save your power.",
-          "manufacturer": "Locally Sourced"
+          "manufacturer": "Locally Sourced",
+          "featured": true
         },
         {
           "code": 137,
@@ -3150,7 +3145,8 @@
             "Operating Temperature 0°C ~40°C"
           ],
           "moreInformation": "The Viaking  power bank includes ODP (Over-Discharge Protection), OCP (Over-Current Protection), SCP (Short Circuit Protection), OVP (Over-Voltage Protection) and OCP (Overcharge Protection) to protect the battery and the device you're charging. As an extra safety feature, the Viaking  power bank automatically turns off if your device is idle, disconnected or fully charged.",
-          "manufacturer": "Locally Sourced"
+          "manufacturer": "Locally Sourced",
+          "featured": true
         }
       ]
     }
