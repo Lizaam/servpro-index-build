@@ -3150,5 +3150,34 @@
         }
       ]
     }
+  },
+  {
+    "categoryId": 10,
+    "category": "miscellaneous",
+    "subCategories": ["miscellaneous items"],
+    "products": {
+      "miscellaneous items": [
+        {
+          "code": 138,
+          "name": "Teflon Stick 300",
+          "imageSrc": [
+            "assets/images/products/miscellaneous/items/teflon-tape/1.jpg",
+            "assets/images/products/miscellaneous/items/teflon-tape/2.jpg"
+          ],
+          "priceInclVat": 0,
+          "dealerExclVat": 0,
+          "sku": "00062559",
+          "details": "PTFE Coated Glass Cloth/Teflon Tape combines the properties of PRFE (Teflon) with the strength of glass cloth. PTFE Coated Glass Cloth has good heat and chemical resistance along with excellent non-stick properties. It is available in plain or adhesive backed.",
+          "extras": [
+            "Size: 50mm & 100mm",
+            "Length: 30m",
+            "Optional: Special sizes can be requested"
+          ],
+          "moreInformation": "(Adhesive) High performce PTFE coated glass cloth, with hight performace silicone adhesive. Brown with yellow release line. (Anti-Static (Adhesive)) High performance PTFE coated glass cloth with 0.13mm thick carbon fill with adhesive (CS). Black with yellow release line.",
+          "manufacturer": "Locally Sourced",
+          "featured": true
+        }
+      ]
+    }
   }
 ]
